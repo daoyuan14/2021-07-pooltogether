@@ -47,7 +47,6 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 
 ## 🐺 C4: Contest prep
 - [ ] Move any relevant information in "contest scope information" above to the bottom of this readme.
-- [ ] Add matching info to the [code423n4.com public contest data here](https://github.com/code-423n4/code423n4.com/blob/main/_data/contests/contests.csv))
 - [ ] Delete this checklist.
 
 ## ⭐️ Sponsor: Contest prep
