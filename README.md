@@ -35,7 +35,7 @@ This contest covers two additional yield sources for PoolTogether V3 prize pools
 
 [Developer Discord](https://discord.gg/D5cKnFGc)
 
-## Architectural Walkthough
+## Architectural Walkthrough
 
 <a href="https://www.youtube.com/watch?v=YW4z5IvO1-E" title="PoolTogether V3 Architecture Walkthough" target="_blank">
   <img src='./images/VIDEO_COVER.png' />
