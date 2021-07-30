@@ -2,7 +2,7 @@
 - $18,000 USDC main award pot
 - $2,000 USDC optimizations award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
-- Submit findings [using the C4 form](https://code423n4.com/2021-07-pooltogether-contest/submit)
+- Submit findings [using the C4 form](https://code423n4.com/2021-07-pooltogether-micro-contest-1/submit)
 - [Read our guidelines for more details](https://code423n4.com/compete)
 - Starts July 29 00:00 UTC
 - Ends July 31 23:59 UTC
